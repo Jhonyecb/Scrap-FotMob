@@ -1,0 +1,43 @@
+atleta,competicao,minutos,grupo,stat,valor,percentil
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",Goals,0.04,71.1
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",Expected goals (xG),0.06,64.9
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",xG on target (xGOT),0.04,67.5
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",Non-penalty xG,0.06,66.7
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",Shots,0.88,64.0
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",Shots on target,0.23,60.5
+Matheuzinho,Brasileiro Série A 2026,2353,"Shooting Rank",Headed shots,0.15,78.1
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Assists,0.11,65.8
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Expected assists (xA),0.12,72.8
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Successful passes,41.58,91.2
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Successful passes %,86.3%,81.6
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Accurate long balls,2.26,84.2
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Accurate long balls %,53.2%,82.5
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Line-breaking passes,12.24,92.1
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Chances created,1.87,88.6
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Big chances created,0.11,50.0
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Successful crosses,1.64,87.7
+Matheuzinho,Brasileiro Série A 2026,2353,Passing,Successful crosses %,34.1%,93.0
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Successful dribbles,0.38,26.3
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Successful dribbles %,40.0%,27.2
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Duels won,3.82,25.4
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Duels won %,54.9%,66.7
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Aerial duels won,0.57,21.1
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Aerial duels won %,45.5%,37.7
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Touches,74.05,86.8
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Touches in opposition box,1.45,55.3
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Dispossessed,0.23,78.9
+Matheuzinho,Brasileiro Série A 2026,2353,Possession,Fouls won,0.80,44.7
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Defensive contributions,6.12,49.1
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Tackles,2.07,55.3
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Interceptions,1.53,78.9
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Blocked shots,0.27,44.7
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Fouls committed,1.11,57.0
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Recoveries,3.25,30.7
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Possession won final 3rd,0.19,48.2
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Dribbled past,0.57,72.8
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Clearances,2.26,23.7
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Clean sheets,0.23,75.4
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,Goals conceded while on pitch,1.38,48.2
+Matheuzinho,Brasileiro Série A 2026,2353,Defending,xG against while on pitch,1.17,72.8
+Matheuzinho,Brasileiro Série A 2026,2353,Discipline,Yellow cards,0.23,46.5
+Matheuzinho,Brasileiro Série A 2026,2353,Discipline,Red cards,0.04,7.9
