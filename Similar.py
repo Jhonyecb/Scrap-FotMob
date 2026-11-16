@@ -4,9 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
-JOGADOR1 = {"arquivo": "csv/melk.csv"}
-JOGADOR2 = {"arquivo": "csv/everton-ribeiro.csv"}
-PNG = "png/melkxeverton.png"
+JOGADOR1 = {"arquivo": "csv/everton-ribeiro.csv"}
+JOGADOR2 = {"arquivo": "csv/cristian-casseres.csv"}
+PNG = "png/EvertonxCasseres2.png"
 
 METRICAS = [
     #"Goals",
@@ -16,7 +16,7 @@ METRICAS = [
     "Non-penalty xG",
     "Shots",
     "Shots on target",
-    #"Headed shots",
+    "Headed shots",
     "Assists",
     "Expected assists (xA)",
     "Successful passes",
@@ -32,21 +32,21 @@ METRICAS = [
     "Successful dribbles %",
     "Duels won",
     "Duels won %",
-    #"Aerial duels won",
-    #"Aerial duels won %",
+    "Aerial duels won",
+    "Aerial duels won %",
     "Touches",
     "Touches in opposition box",
     "Dispossessed",
     "Fouls won",
     #"Defensive contributions",
-    #"Tackles",
-    #"Interceptions",
-    #"Blocked shots",
-    #"Fouls committed",
-    #"Recoveries",
-    #"Possession won final 3rd",
-    #"Dribbled past",
-    #"Clearances",
+    "Tackles",
+    "Interceptions",
+    "Blocked shots",
+    "Fouls committed",
+    "Recoveries",
+    "Possession won final 3rd",
+    "Dribbled past",
+    "Clearances",
     #"Clean sheets",
     #"Goals conceded while on pitch",
     #"xG against while on pitch",
