@@ -1,0 +1,42 @@
+atleta,competicao,minutos,grupo,stat,valor,percentil
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",Goals,0.67,88.4
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",Expected goals (xG),0.64,91.3
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",xG on target (xGOT),0.69,92.8
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",Non-penalty xG,0.64,94.2
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",Shots,2.71,60.9
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",Shots on target,1.50,87.0
+Pedro,Brasileirão Serie A 2026,2693,"Shooting Rank",Headed shots,0.47,23.2
+Pedro,Brasileirão Serie A 2026,2693,Passing,Assists,0.20,81.2
+Pedro,Brasileirão Serie A 2026,2693,Passing,Expected assists (xA),0.13,88.4
+Pedro,Brasileirão Serie A 2026,2693,Passing,Successful passes,14.87,62.3
+Pedro,Brasileirão Serie A 2026,2693,Passing,Successful passes %,77.3%,65.2
+Pedro,Brasileirão Serie A 2026,2693,Passing,Accurate long balls,0.30,42.0
+Pedro,Brasileirão Serie A 2026,2693,Passing,Accurate long balls %,64.3%,53.6
+Pedro,Brasileirão Serie A 2026,2693,Passing,Line-breaking passes,2.61,76.8
+Pedro,Brasileirão Serie A 2026,2693,Passing,Chances created,1.40,73.9
+Pedro,Brasileirão Serie A 2026,2693,Passing,Big chances created,0.43,92.8
+Pedro,Brasileirão Serie A 2026,2693,Possession,Successful dribbles,1.04,81.2
+Pedro,Brasileirão Serie A 2026,2693,Possession,Successful dribbles %,57.4%,81.2
+Pedro,Brasileirão Serie A 2026,2693,Possession,Duels won,3.17,8.7
+Pedro,Brasileirão Serie A 2026,2693,Possession,Duels won %,41.7%,47.8
+Pedro,Brasileirão Serie A 2026,2693,Possession,Aerial duels won,0.47,7.2
+Pedro,Brasileirão Serie A 2026,2693,Possession,Aerial duels won %,32.6%,31.9
+Pedro,Brasileirão Serie A 2026,2693,Possession,Touches,32.85,46.4
+Pedro,Brasileirão Serie A 2026,2693,Possession,Touches in opposition box,5.48,73.9
+Pedro,Brasileirão Serie A 2026,2693,Possession,Dispossessed,1.37,37.7
+Pedro,Brasileirão Serie A 2026,2693,Possession,Fouls won,1.00,21.7
+Pedro,Brasileirão Serie A 2026,2693,Possession,Penalties awarded,0.03,76.8
+Pedro,Brasileirão Serie A 2026,2693,Defending,Defensive contributions,1.50,33.3
+Pedro,Brasileirão Serie A 2026,2693,Defending,Tackles,0.67,44.9
+Pedro,Brasileirão Serie A 2026,2693,Defending,Interceptions,0.37,78.3
+Pedro,Brasileirão Serie A 2026,2693,Defending,Blocked shots,0.07,52.2
+Pedro,Brasileirão Serie A 2026,2693,Defending,Fouls committed,0.84,82.6
+Pedro,Brasileirão Serie A 2026,2693,Defending,Recoveries,1.84,24.6
+Pedro,Brasileirão Serie A 2026,2693,Defending,Possession won final 3rd,0.50,52.2
+Pedro,Brasileirão Serie A 2026,2693,Defending,Dribbled past,0.60,31.9
+Pedro,Brasileirão Serie A 2026,2693,Defending,Clearances,0.40,30.4
+Pedro,Brasileirão Serie A 2026,2693,Defending,Clean sheets,0.13,85.5
+Pedro,Brasileirão Serie A 2026,2693,Defending,Goals conceded while on pitch,0.63,91.3
+Pedro,Brasileirão Serie A 2026,2693,Defending,xG against while on pitch,0.78,97.1
+Pedro,Brasileirão Serie A 2026,2693,Discipline,Yellow cards,0.07,63.8
+Pedro,Brasileirão Serie A 2026,2693,Discipline,Red cards,0.00,100.0
