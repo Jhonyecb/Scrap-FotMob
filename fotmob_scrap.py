@@ -14,12 +14,12 @@ from selenium.common.exceptions import TimeoutException
 import unicodedata
 
 # ==================== CONFIGURAÇÃO ====================
-ID_JOGADOR = 263937
-NOME_JOGADOR = "everton-ribeiro"
-NOME_ARQUIVO = "csv/everton-ribeiro.csv"
-COMPETICAO = "Brasileiro Série A 2025"
+ID_JOGADOR = 750067
+NOME_JOGADOR = "pedro"
+NOME_ARQUIVO = "csv/pedro.csv"
+COMPETICAO = "Brasileirão Serie A 2026"
 COMPETICAO_SITE = "Serie A"
-TEMPORADA = "2025"
+TEMPORADA = "2026"
 
 URL = f"https://www.fotmob.com/players/{ID_JOGADOR}/{NOME_JOGADOR}"
 # =======================================================

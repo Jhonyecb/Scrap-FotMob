@@ -4,9 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
-JOGADOR1 = {"arquivo": "csv/everton-ribeiro.csv"}
-JOGADOR2 = {"arquivo": "csv/cristian-casseres.csv"}
-PNG = "png/EvertonxCasseres2.png"
+JOGADOR1 = {"arquivo": "csv/everton-ribeiro25.csv"}
+JOGADOR2 = {"arquivo": "csv/everton-ribeiro26.csv"}
+PNG = "png/Everton26xEverton25.png"
 
 METRICAS = [
     #"Goals",
@@ -16,7 +16,7 @@ METRICAS = [
     "Non-penalty xG",
     "Shots",
     "Shots on target",
-    "Headed shots",
+    #"Headed shots",
     "Assists",
     "Expected assists (xA)",
     "Successful passes",
@@ -32,21 +32,21 @@ METRICAS = [
     "Successful dribbles %",
     "Duels won",
     "Duels won %",
-    "Aerial duels won",
-    "Aerial duels won %",
+    #"Aerial duels won",
+    #"Aerial duels won %",
     "Touches",
     "Touches in opposition box",
-    "Dispossessed",
+    #"Dispossessed",
     "Fouls won",
     #"Defensive contributions",
     "Tackles",
-    "Interceptions",
-    "Blocked shots",
-    "Fouls committed",
+    #"Interceptions",
+    #"Blocked shots",
+    #"Fouls committed",
     "Recoveries",
     "Possession won final 3rd",
-    "Dribbled past",
-    "Clearances",
+    #"Dribbled past",
+    #"Clearances",
     #"Clean sheets",
     #"Goals conceded while on pitch",
     #"xG against while on pitch",
@@ -133,7 +133,7 @@ sim = 100 - np.sqrt(((df["player1"] - df["player2"]) ** 2).mean())
 
 BRANCO, PRETO, DOURADO, CINZA_LINHA, CINZA_GRADE = "#FFFFFF", "#000000", "#C9A227", "#9e9e9e", "#e6e6e6"
 
-fig, ax = plt.subplots(figsize=(9, 13), facecolor=BRANCO)
+fig, ax = plt.subplots(figsize=(11, 13), facecolor=BRANCO)
 ax.set_facecolor(BRANCO)
 
 y = np.arange(len(df))[::-1]
@@ -174,7 +174,14 @@ fig.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.5, 0.955), nco
 
 ax.set_title(f"Similaridade: {sim:.1f}%", color=PRETO, loc="left", fontsize=15, fontweight="bold", pad=12)
 
-plt.tight_layout(rect=[0, 0, 1, 0.93])
+fig.text(0.5, 0.02,
+    "Número no ponto = percentil (100 = melhor)\n"
+    "Similaridade = distância euclidiana (+ alta = + similar)\n"
+    "Dados: FotMob | Gráfico: @FalandodeBahia",
+ha="center", va="center", fontsize=9, color=PRETO)
+
+
+plt.tight_layout(rect=[0, 0.05, 1, 0.93])
 plt.savefig(PNG, dpi=200, facecolor=BRANCO)
 plt.show()
 # %%

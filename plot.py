@@ -6,10 +6,10 @@ from matplotlib.patches import Patch
 import textwrap
 
 # ---------- Configuração ----------
-ATLETA_POSICAO = "Meia-atacante / Ponta Direita"
-ATLETA_TIME = "Ceará"
-NOME_ARQUIVO = "csv/melk.csv"
-PNG = "png/melk.png"
+ATLETA_POSICAO = "Volante"
+ATLETA_TIME = "Athletic-MG"
+NOME_ARQUIVO = "csv/João-Miguel.csv"
+PNG = "png/João-Miguel.png"
 
 METRICAS = [
     #"Goals",
